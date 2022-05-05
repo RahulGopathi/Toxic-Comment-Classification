@@ -10,7 +10,7 @@ nltk==3.7
 numpy==1.22.3
 pandas==1.4.2
 Pillow==9.1.0
-prml-helper==0.0.12
+prml-helper==0.0.13
 pycodestyle==2.8.0
 pyflakes==2.4.0
 python-dateutil==2.8.2
